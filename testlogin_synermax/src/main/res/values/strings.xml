@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TestLogin_synermax</string>
+
+    <!--facebook login start-->
+    <string name="facebook_app_id">987696798087841</string>
+    <string name="fb_login_protocol_scheme">fb987696798087841</string>
+
+    <!--facebook login end-->
+</resources>

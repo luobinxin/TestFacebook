@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BaseLoginLibs</string>
+
+    <!--facebook login start-->
+    <string name="wifisocket_facebook_app_id">566338630551328</string>
+    <string name="wifisocket_fb_login_protocol_scheme">fb566338630551328</string>
+
+    <!--facebook login end-->
+
+</resources>

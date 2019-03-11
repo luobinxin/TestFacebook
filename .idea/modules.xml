@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/TestFacebook.iml" filepath="$PROJECT_DIR$/TestFacebook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/baseloginlibs/baseloginlibs.iml" filepath="$PROJECT_DIR$/baseloginlibs/baseloginlibs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testfacebook_musik/testfacebook_musik.iml" filepath="$PROJECT_DIR$/testfacebook_musik/testfacebook_musik.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testlogin_sharedcharger/testlogin_sharedcharger.iml" filepath="$PROJECT_DIR$/testlogin_sharedcharger/testlogin_sharedcharger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testlogin_synermax/testlogin_synermax.iml" filepath="$PROJECT_DIR$/testlogin_synermax/testlogin_synermax.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wifisocket/wifisocket.iml" filepath="$PROJECT_DIR$/wifisocket/wifisocket.iml" />
+    </modules>
+  </component>
+</project>

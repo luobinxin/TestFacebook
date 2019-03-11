@@ -1,0 +1,37 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="cn.com.startai.smartadcontrolledh5.activity.MainActivity">
+    <item
+        android:id="@+id/m_wx_login"
+        android:icon="@drawable/login_wechat"
+        android:orderInCategory="100"
+        android:title="wechat"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/m_zfb_login"
+        android:icon="@drawable/zfb_pay"
+        android:orderInCategory="100"
+        android:title="alipay"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/m_twitter_login"
+        android:icon="@drawable/login_twitter"
+        android:orderInCategory="100"
+        android:title="twitter"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/m_facebook_login"
+        android:icon="@drawable/facebook"
+        android:orderInCategory="100"
+        android:title="facebook"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/m_google_login"
+        android:icon="@drawable/login_google"
+        android:orderInCategory="100"
+        android:title="脸书登录"
+        app:showAsAction="always" />
+</menu>

@@ -1,0 +1,1 @@
+include ':wifisocket', ':testfacebook_musik', ':testlogin_synermax', ':testlogin_sharedcharger', ':baseloginlibs'

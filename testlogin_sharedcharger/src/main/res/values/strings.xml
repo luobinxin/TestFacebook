@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TestLogin_sharedcharger</string>
+
+    <string name="facebook_app_id">608577376279492</string>
+    <string name="fb_login_protocol_scheme">fb608577376279492</string>
+</resources>

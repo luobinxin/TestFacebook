@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TestFacebook_MUSIK</string>
+
+    <!--facebook login start-->
+    <string name="facebook_app_id">842701156094657</string>
+    <string name="fb_login_protocol_scheme">fb842701156094657</string>
+
+    <!--facebook login end-->
+
+
+</resources>
